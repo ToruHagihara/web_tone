@@ -1,0 +1,5 @@
+以下のソースを改変し利用しています。
+- ProcessingとArduinoを接続する
+<http://yoppa.org/tau_bmaw13/4772.html>
+- 圧電スピーカをつないで音を鳴らします
+<http://www.geocities.jp/zattouka/GarageHouse/micon/Arduino/Melody/Melody.htm>
