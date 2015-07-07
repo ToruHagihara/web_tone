@@ -1,0 +1,4 @@
+{
+  "ARDUINO_PORT": "/dev/tty.n",
+  "TONE_LIST_URL": "https://url-to-tone-list-json",
+}
